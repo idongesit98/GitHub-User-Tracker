@@ -1,0 +1,3 @@
+First create a method for Http calls 
+Create a method for individual Http requests
+Check with chatgpt if your code is correct
