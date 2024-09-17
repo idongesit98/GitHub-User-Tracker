@@ -25,7 +25,7 @@ This Sample solution is inspired by the [github-user-activity](https://roadmap.s
    # Navigate to the project Directory
    cd [`Your project directory`]
 
-2. **Usage**
+2. Usage
 ```bash
 dotnet run `[gitHub username]` help
 To show all available commands
