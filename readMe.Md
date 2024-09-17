@@ -21,7 +21,7 @@ This Sample solution is inspired by the [github-user-activity](https://roadmap.s
 
 1. **Clone  the Repository**
 ```bash
-   git clone --[ https://github.com/idongesit98/TaskTracker.git](https://github.com/idongesit98/GitHub-User-Tracker.git)
+   git clone -- https://github.com/idongesit98/GitHub-User-Tracker.git
    # Navigate to the project Directory
    cd [`Your project directory`]
 
